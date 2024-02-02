@@ -1,5 +1,5 @@
 { 
     "g": "ghggg", 
-    "mf": "https://gb000000.b-cdn.net/hotupdate/", 
+    "mf": "https://hy04uawalbcasauasds.site/hotupdate/", 
     "p": "remote-asset" 
 }
